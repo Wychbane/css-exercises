@@ -1,0 +1,13 @@
+.alpha, .bravo {
+    font-size: 28px;
+    font-family: 'Helvetica','Times New Roman', sans-serif;
+}
+
+.alpha {
+    background-color: hsl(0, 7%, 3%);
+    color: rgb(249, 249, 248);
+}
+
+.bravo {
+    background-color: #fdfd41;
+}
